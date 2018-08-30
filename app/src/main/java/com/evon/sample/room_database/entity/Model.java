@@ -1,4 +1,4 @@
-package com.evon.sample.view_model;
+package com.evon.sample.room_database.entity;
 
 import android.arch.persistence.room.Entity;
 import android.arch.persistence.room.PrimaryKey;

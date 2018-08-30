@@ -12,7 +12,7 @@ import android.widget.EditText;
 
 import com.evon.sample.R;
 import com.evon.sample.view_model.AddViewModel;
-import com.evon.sample.view_model.Model;
+import com.evon.sample.room_database.entity.Model;
 
 /**
  * The type Add activity.

@@ -14,7 +14,7 @@ import android.support.v7.widget.Toolbar;
 import android.view.View;
 
 import com.evon.sample.R;
-import com.evon.sample.view_model.Model;
+import com.evon.sample.room_database.entity.Model;
 import com.evon.sample.view_model.ListViewModel;
 import com.evon.sample.adapters.RecyclerViewAdapter;
 

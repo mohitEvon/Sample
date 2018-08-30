@@ -1,12 +1,10 @@
-package com.evon.sample.room_database;
+package com.evon.sample.room_database.entity;
 
 import android.arch.lifecycle.LiveData;
 import android.arch.persistence.room.Dao;
 import android.arch.persistence.room.Delete;
 import android.arch.persistence.room.Insert;
 import android.arch.persistence.room.Query;
-
-import com.evon.sample.view_model.Model;
 
 import java.util.List;
 

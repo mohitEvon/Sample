@@ -1,11 +1,12 @@
-package com.evon.sample.room_database;
+package com.evon.sample.room_database.dao;
 
 import android.arch.persistence.room.Database;
 import android.arch.persistence.room.Room;
 import android.arch.persistence.room.RoomDatabase;
 import android.content.Context;
 
-import com.evon.sample.view_model.Model;
+import com.evon.sample.room_database.entity.ModelD;
+import com.evon.sample.room_database.entity.Model;
 
 /**
  * The type App database.

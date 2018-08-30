@@ -7,7 +7,7 @@ import android.view.ViewGroup;
 import android.widget.TextView;
 
 import com.evon.sample.R;
-import com.evon.sample.view_model.Model;
+import com.evon.sample.room_database.entity.Model;
 
 import java.util.List;
 
