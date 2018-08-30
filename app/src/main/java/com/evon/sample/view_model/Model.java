@@ -1,10 +1,7 @@
-package com.evon.sample.db;
+package com.evon.sample.view_model;
 
 import android.arch.persistence.room.Entity;
 import android.arch.persistence.room.PrimaryKey;
-import android.arch.persistence.room.TypeConverters;
-
-import java.util.Date;
 
 /**
  * The type Model.

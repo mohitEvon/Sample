@@ -1,4 +1,4 @@
-package com.evon.sample.listItems;
+package com.evon.sample.activities;
 
 import android.arch.lifecycle.Observer;
 import android.arch.lifecycle.ViewModelProviders;
@@ -14,8 +14,9 @@ import android.support.v7.widget.Toolbar;
 import android.view.View;
 
 import com.evon.sample.R;
-import com.evon.sample.addItem.AddActivity;
-import com.evon.sample.db.Model;
+import com.evon.sample.view_model.Model;
+import com.evon.sample.view_model.ListViewModel;
+import com.evon.sample.adapters.RecyclerViewAdapter;
 
 import java.util.ArrayList;
 import java.util.List;

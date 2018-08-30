@@ -1,4 +1,4 @@
-package com.evon.sample.addItem;
+package com.evon.sample.activities;
 
 import android.arch.lifecycle.ViewModelProviders;
 import android.os.Bundle;
@@ -11,7 +11,8 @@ import android.view.View;
 import android.widget.EditText;
 
 import com.evon.sample.R;
-import com.evon.sample.db.Model;
+import com.evon.sample.view_model.AddViewModel;
+import com.evon.sample.view_model.Model;
 
 /**
  * The type Add activity.

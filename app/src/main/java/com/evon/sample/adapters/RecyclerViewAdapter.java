@@ -1,4 +1,4 @@
-package com.evon.sample.listItems;
+package com.evon.sample.adapters;
 
 import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
@@ -7,7 +7,7 @@ import android.view.ViewGroup;
 import android.widget.TextView;
 
 import com.evon.sample.R;
-import com.evon.sample.db.Model;
+import com.evon.sample.view_model.Model;
 
 import java.util.List;
 

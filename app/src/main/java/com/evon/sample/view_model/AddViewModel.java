@@ -1,11 +1,10 @@
-package com.evon.sample.addItem;
+package com.evon.sample.view_model;
 
 import android.app.Application;
 import android.arch.lifecycle.AndroidViewModel;
 import android.os.AsyncTask;
 
-import com.evon.sample.db.AppDatabase;
-import com.evon.sample.db.Model;
+import com.evon.sample.room_database.AppDatabase;
 
 
 /**
